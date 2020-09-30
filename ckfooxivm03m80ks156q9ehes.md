@@ -13,6 +13,10 @@ While going through a course, it is essential to jot down important things learn
 
 It is okay to feel overwhelmed when learning something, It happens to everyone. Feel free to pause, stare and think about what you have learnt. whenever you feel stuck remember that you are not alone and you most likely ain't the first person to experience the problem, maximise Google and StackOverflow for tips on how to solve the issue. you are doing well dear.
 
+### Build Projects
+
+The importance of building projects cannot be overemphasized. After learning a course online, Think about solutions that can be created with your new knowledge. Building projects is one of the best ways to gain mastery of knowledge acquired as it forces you to apply the skills learnt.
+
 Thank you for reading.
  
 <iframe src="https://giphy.com/embed/f1JaQyF57OgpO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
